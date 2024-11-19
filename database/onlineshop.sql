@@ -46,8 +46,8 @@ CREATE TABLE `admin_info` (
 -- Dumping data for table `admin_info`
 --
 
-INSERT INTO `admin_info` (`admin_id`, `admin_name`, `admin_email`, `admin_password`) VALUES
-(1, 'admin', 'admin@gmail.com', '25f9e794323b453885f5181f1b624d0b');
+INSERT INTO `reviews` (`review_id`, `product_id`, `name`, `email`, `review`, `datetime`, `rating`) VALUES
+(6, 1, 'support Reddy H C', 'puneethreddy951@gmail.com', 'this is my first review', '2020-11-04 19:14:10', 2);
 
 -- --------------------------------------------------------
 

@@ -80,7 +80,7 @@ if(isset($_POST["brand"])){
 	}
 }
 if(isset($_POST["page"])){
-	$cid = $_POST["cid"];
+	@$cid = $_POST["cid"];
 	$sql = "SELECT * FROM products Where product_cat='$cid'";
 	$run_query = mysqli_query($con,$sql);
 	$count = mysqli_num_rows($run_query);

@@ -122,9 +122,9 @@ session_start();
 			<div id="top-header">
 				<div class="container">
 					<ul class="header-links pull-left">
-						<li><a href="#"><i class="fa fa-phone"></i> +1-12344465767</a></li>
-						<li><a href="#"><i class="fa fa-envelope-o"></i> puneethreddy951@gmail.com</a></li>
-						<li><a href="#"><i class="fa fa-map-marker"></i>New York</a></li>
+						<li><a href="#"><i class="fa fa-phone"></i> +918303366296</a></li>
+						<li><a href="#"><i class="fa fa-envelope-o"></i> singhnavneet4779@gmail.com</a></li>
+						<li><a href="#"><i class="fa fa-map-marker"></i>Delhi</a></li>
 					</ul>
 					<ul class="header-links pull-right">
 						<li><a href="#"><i class="fa fa-inr"></i> INR</a></li>
@@ -191,7 +191,7 @@ session_start();
 						<!-- /LOGO -->
 
 						<!-- SEARCH BAR -->
-						<div class="col-md-6">
+						<!--<div class="col-md-6">
 							<div class="header-search">
 								<form onsubmit="return false">
 									<select class="input-select">
@@ -203,7 +203,7 @@ session_start();
 									<button id="search_btn"   class="search-btn">Search</button>
 								</form>
 							</div>
-						</div>
+						</div>-->
 						<!-- /SEARCH BAR -->
 
 						<!-- ACCOUNT -->
