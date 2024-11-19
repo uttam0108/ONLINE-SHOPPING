@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![GitHub](https://img.shields.io/github/license/puneethreddyhc/online-shopping-system-advanced)
 ![](https://visitor-badge.glitch.me/badge?page_id=puneethreddyhc.onlineadv)
 
@@ -120,3 +121,6 @@ https://github.com/PuneethReddyHC/event-management
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+=======
+# ONLINE-SHOPPING
+>>>>>>> upstream/main
